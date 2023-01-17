@@ -1,6 +1,8 @@
 ### Hi there 👋
 I`m a front-end developer with more than 10 years of experience, currently playing around as a Full Stack developer I have work with several technologies such as JavaScript, Typescript, GraphQL, React, Node.js, Next.js ,Gatsby, AWS, GCP and the list go on.
 
+I am commercetools JavaScript developer Certified.
+
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
