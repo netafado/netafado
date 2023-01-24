@@ -1,3 +1,5 @@
+
+![git](https://user-images.githubusercontent.com/10222455/214292568-acd004e7-a026-4719-ae0a-eb4aee50fed0.png)
 ### Hi there 👋
 I`m a front-end developer with more than 10 years of experience, currently playing around as a Full Stack developer I have work with several technologies such as JavaScript, Typescript, GraphQL, React, Node.js, Next.js ,Gatsby, AWS, GCP and the list go on.
 
