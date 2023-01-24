@@ -3,6 +3,8 @@ I`m a front-end developer with more than 10 years of experience, currently playi
 
 I am commercetools JavaScript developer Certified.
 
+Now I am currently working in helping companies to  modernize their e-commerce(Headless, Microservices  based, API-first, and Cloud-native SaaS) using set of new tools.
+
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
