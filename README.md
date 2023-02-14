@@ -13,9 +13,10 @@ Now I am currently working in helping companies to  modernize their e-commerce(H
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/amplify/amplify.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/-TypeScript-000?style=flat&logo=TypeScript&logoColor=3178C6$color=0d1117"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Jest-000?style=flat&logo=Jest&logoColor=C21325"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Testing%20Library-000?style=flat&logo=testing-library&logoColor=E33332"></code>
 
 ### 📫 How to reach me:
 
