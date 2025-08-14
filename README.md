@@ -1,7 +1,8 @@
 
 ![git](https://user-images.githubusercontent.com/10222455/214292568-acd004e7-a026-4719-ae0a-eb4aee50fed0.png)
+
 ### Hi there 👋
-I`m a front-end developer and designer with more than 10 years of experience, currently playing around as a Full Stack developer I have work with several technologies such as JavaScript, Typescript, GraphQL, React, Node.js, Next.js ,Gatsby, AWS, GCP and the list go on.
+I am a Senior Software Development Engineer with expertise in fullstack development. He has a strong background in technology, including React, Node.js, Go, TypeScript, and GraphQL. Isaias has a proven track record of success in enterprise, ecommerce, banking, and startup environments. He has experience in mentoring and leading teams, and is always seeking new challenges. In his most recent role, he played a key role in transitioning systems to microservices and optimizing performance with serverless functions. He is also open to international experiences and has worked with prominent companies in the US. Isaias is now looking for new opportunities to utilize his skills and drive innovation in a challenging environment.
 
 I am commercetools JavaScript developer Certified.
 
