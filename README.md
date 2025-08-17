@@ -3,7 +3,11 @@
 ![dev](https://github.com/user-attachments/assets/b3bef75b-1548-4ef1-8b79-16aed02e4da6)
 
 ### Hi there 👋
-I am a Senior Software Development Engineer with expertise in fullstack development. He has a strong background in technology, including React, Node.js, Go, TypeScript, and GraphQL. Isaias has a proven track record of success in enterprise, ecommerce, banking, and startup environments. He has experience in mentoring and leading teams, and is always seeking new challenges. In his most recent role, he played a key role in transitioning systems to microservices and optimizing performance with serverless functions. He is also open to international experiences and has worked with prominent companies in the US. Isaias is now looking for new opportunities to utilize his skills and drive innovation in a challenging environment.
+I am a Senior Software Development Engineer with deep expertise in full-stack development, specializing in React, Node.js, Go, TypeScript, and GraphQL. I bring a proven track record of success across enterprise, e-commerce, banking, and startup environments, consistently delivering scalable and high-quality solutions.
+
+With experience mentoring and leading teams, I excel at driving technical initiatives and fostering collaboration. In my most recent role, I spearheaded the transition to microservices and improved system performance through serverless architectures. Having worked with prominent companies in the US, I am open to international opportunities where I can apply my skills to build innovative, impactful solutions.
+
+Now seeking new challenges, I am eager to leverage my expertise to help organizations scale, modernize, and innovate in fast-paced, technology-driven environments.
 
 I am commercetools JavaScript developer Certified.
 
