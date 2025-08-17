@@ -1,5 +1,6 @@
 
-![git](https://user-images.githubusercontent.com/10222455/214292568-acd004e7-a026-4719-ae0a-eb4aee50fed0.png)
+
+![dev](https://github.com/user-attachments/assets/b3bef75b-1548-4ef1-8b79-16aed02e4da6)
 
 ### Hi there 👋
 I am a Senior Software Development Engineer with expertise in fullstack development. He has a strong background in technology, including React, Node.js, Go, TypeScript, and GraphQL. Isaias has a proven track record of success in enterprise, ecommerce, banking, and startup environments. He has experience in mentoring and leading teams, and is always seeking new challenges. In his most recent role, he played a key role in transitioning systems to microservices and optimizing performance with serverless functions. He is also open to international experiences and has worked with prominent companies in the US. Isaias is now looking for new opportunities to utilize his skills and drive innovation in a challenging environment.
@@ -21,7 +22,7 @@ Now I am currently working in helping companies to  modernize their e-commerce(H
 
 ### 📫 How to reach me:
 
-- Website: [isaias.io](https://isaiasfrancisco.com.br)
+- Website: [isaiasfrancisco.com.br](https://isaiasfrancisco.com.br)
 - Instagram: [@isaias.f.santos](https://www.instagram.com/isaias.f.santos/)
 - linkedin: [@isaias-francisco](https://www.linkedin.com/in/isaias-francisco-21097437/)
 <!--
